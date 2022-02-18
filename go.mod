@@ -1,6 +1,6 @@
 module github.com/johhnydinh/go-control-plane
 
-go 1.16
+go 1.17
 
 require (
 	github.com/census-instrumentation/opencensus-proto v0.2.1
